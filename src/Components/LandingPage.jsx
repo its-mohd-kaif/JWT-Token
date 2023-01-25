@@ -90,10 +90,10 @@ function LandingPage() {
               Password
             </span>
           </div>
-          <div class="d-grid gap-2 col-12 mx-auto">
+          <div className="d-grid gap-2 col-12 mx-auto">
             <button
               onClick={loginHandler}
-              class="btn btn-primary"
+              className="btn btn-primary"
               type="button"
             >
               Login
